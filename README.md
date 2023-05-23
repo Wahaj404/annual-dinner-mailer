@@ -1,3 +1,3 @@
-# anuual-dinner-mailer
+# annual-dinner-mailer
 
 automatic e-ticket mailer
